@@ -1,5 +1,5 @@
-Руслан Хамидуллин
+Ruslan Khamidullin
 
-стажировка программист-разработчик
+Internship - Software Engineer
 
-18 янв 2018
+18 yan 2018
